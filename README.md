@@ -35,16 +35,27 @@ Run: make_prediction.sh
 
 ## File structure
 .circleci           Configuration for CircleCI
+
 model_data          Data for the prediction model
+
 output_txt_files    Output of implementation
+
 app.py              Prediction application
+
 Dockerfile          Dockerfile
+
 make_prediction.sh  Runs prediction in application
+
 Makefile            Makefile configuration
+
 Readme.md           Readme file
+
 requirements.txt    Python dependencies
+
 run_docker.sh       Start up Docker environment
+
 run_kubernetes.sh   Start up Kubernetes environment
+
 upload_docker.sh    Upload image to Docker Hub
 
 
