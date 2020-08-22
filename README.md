@@ -1,4 +1,4 @@
-[![JonathanAsamoah](https://circleci.com/github/JonathanAsamoah/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/JonathanAsamoah)
+[![CircleCI](https://circleci.com/gh/JonathanAsamoah/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 https://app.circleci.com/pipelines/github/JonathanAsamoah/project-ml-microservice-kubernetes/6/workflows/6568c7f1-4d53-4b27-bb45-5be5b866167d/jobs/6
 ## Project Overview
