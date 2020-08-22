@@ -1,5 +1,6 @@
-<include a CircleCI status badge, here>
+[![JonathanAsamoah](https://circleci.com/github/JonathanAsamoah/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/JonathanAsamoah)
 
+https://app.circleci.com/pipelines/github/JonathanAsamoah/project-ml-microservice-kubernetes/6/workflows/6568c7f1-4d53-4b27-bb45-5be5b866167d/jobs/6
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
